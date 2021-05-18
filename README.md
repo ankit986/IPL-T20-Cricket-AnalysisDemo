@@ -44,7 +44,10 @@ To make things a bit more interactive we added a slider, you just need to select
 ![image](https://user-images.githubusercontent.com/35359451/118688125-64d55200-b823-11eb-975c-570110ca3a01.png)
 
 And the scorecard we get look like the below figure:
-![image](https://user-images.githubusercontent.com/35359451/118688293-8df5e280-b823-11eb-8268-823627ddddeb.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/35359451/118688293-8df5e280-b823-11eb-8268-823627ddddeb.png">
+</p>
+
 
 there is also similar scorecard for second inning
 
@@ -59,7 +62,9 @@ Now we focused on analysis by season, i.e. we are analysing teams and thier perf
  
 Once decided which season needs to be analysed, we present you a points table, which looks like below figure
 
-![image](https://user-images.githubusercontent.com/35359451/118694307-9224fe80-b829-11eb-89fa-25ab01006ce8.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35359451/118694307-9224fe80-b829-11eb-89fa-25ab01006ce8.png">
+</p>
 
 From this points table we created graphs for batsman performance, bowler performance, teams performance on different ground and also visualized the above points table on the map of India.
 
@@ -85,7 +90,7 @@ Through probability density, we have identified the winning probability on a gro
 
 ## ***Talent wins games, but teamwork and intelligence wins championships***
 
-Here is a glimpse of few graphs we plotted.
+Here is a glimpse of few graphs we plotted, there are many more in the notebook please have a look.
 ![image](https://user-images.githubusercontent.com/35359451/118698126-abc84500-b82d-11eb-9d40-271de5af17cf.png)|  ![image](https://user-images.githubusercontent.com/35359451/118698224-c4d0f600-b82d-11eb-9192-eac6a987c399.png)|![image](https://user-images.githubusercontent.com/35359451/118698288-d914f300-b82d-11eb-99fc-4839972fe455.png)|
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/35359451/118698358-ec27c300-b82d-11eb-9a3f-143f6fdc163c.png) |![image](https://user-images.githubusercontent.com/35359451/118698498-18dbda80-b82e-11eb-8efd-4a8389b72035.png)| ![image](https://user-images.githubusercontent.com/35359451/118698569-31e48b80-b82e-11eb-994d-fc7c163423c0.png)|
