@@ -91,7 +91,7 @@ Through probability density, we have identified the winning probability on a gro
 ## ***Talent wins games, but teamwork and intelligence wins championships***
 
 Here is a glimpse of few graphs we plotted, there are many more in the notebook please have a look.
-![image](https://user-images.githubusercontent.com/35359451/118698126-abc84500-b82d-11eb-9d40-271de5af17cf.png)|  ![image](https://user-images.githubusercontent.com/35359451/118698224-c4d0f600-b82d-11eb-9192-eac6a987c399.png)|![image](https://user-images.githubusercontent.com/35359451/118698288-d914f300-b82d-11eb-99fc-4839972fe455.png)|
+![image](https://user-images.githubusercontent.com/35359451/118698126-abc84500-b82d-11eb-9d40-271de5af17cf.png)| ![newplot](https://user-images.githubusercontent.com/61584385/118861787-881f0080-b8fa-11eb-8f63-86644ee2301d.png)|![image](https://user-images.githubusercontent.com/35359451/118698288-d914f300-b82d-11eb-99fc-4839972fe455.png)|
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/35359451/118698358-ec27c300-b82d-11eb-9a3f-143f6fdc163c.png) |![image](https://user-images.githubusercontent.com/35359451/118698498-18dbda80-b82e-11eb-8efd-4a8389b72035.png)| ![image](https://user-images.githubusercontent.com/35359451/118698569-31e48b80-b82e-11eb-994d-fc7c163423c0.png)|
 ![image](https://user-images.githubusercontent.com/35359451/118698654-4f195a00-b82e-11eb-9aec-bda201918a09.png)|![image](https://user-images.githubusercontent.com/35359451/118698704-5b9db280-b82e-11eb-8249-97d56139586d.png)| ![image](https://user-images.githubusercontent.com/35359451/118700561-7113dc00-b830-11eb-8b1c-61ce09f2ec1b.png) |
