@@ -12,9 +12,6 @@ In **Season-wise Team Analysis** we compared performances of various teams in a 
 In the **Entire IPL Analysis**, we will look at the penetration of players from different countries in the IPL, consistent performers, total runs, strike rate, average runs of batsmen in the entire IPL, etc.
 
 ---
-
-First thing first. For any analysis, we always need a clean and clear dataset, and getting that kind of a dataset in the real world is just like once in a blue moon thing. So, let’s first understand and clean our dataset.
-
 ### **Datasets:**
  * Players Dataset
  * Deliveries Dataset
